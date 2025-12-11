@@ -7,7 +7,7 @@
 
 > Transforming 18,000+ customer transactions into actionable marketing intelligence through RFM analysis
 
-📊 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzk2MzBkN2UtZWZlOC00ZGQ5LWIyMjEtNzQyYmM4ODFkM2ZkIiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D) | 📄 [Documentation](./docs)
+📊 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzk2MzBkN2UtZWZlOC00ZGQ5LWIyMjEtNzQyYmM4ODFkM2ZkIiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D) 
 
 ---
 
